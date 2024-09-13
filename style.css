@@ -1,0 +1,31 @@
+* {
+  text-decoration: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.banner {
+  background: url(img/bg1.jpg) no-repeat center center;
+  background-size: cover;
+  padding-top: 10%;
+  padding-bottom: 15%;
+  color: rgb(255, 255, 255);
+}
+
+.lingkaran {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: #fff;
+  background-color: #66b63b;
+}
+.lingkaran i {
+  position: relative;
+  top: 25%;
+}
+.kontak img {
+  height: auto;
+  max-height: 80px;
+}
